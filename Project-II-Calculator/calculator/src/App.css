@@ -1,0 +1,10 @@
+.numContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    border: 1px solid black;
+    max-width: 335px;
+    margin: 100px auto;
+}

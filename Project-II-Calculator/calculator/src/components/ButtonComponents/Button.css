@@ -1,0 +1,20 @@
+.number-btn {
+    border-left: 1px solid grey;
+    border-top: 1px solid grey;
+    width: 80px;
+}
+
+.action-btn {
+    border: 1px solid grey;
+    width: 240px;
+}
+
+.operation-btn {
+    background-color: red;
+    color: white;
+    width: 80px;
+}
+
+.btn {
+    text-align: center;
+}
