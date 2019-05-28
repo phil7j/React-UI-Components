@@ -1,9 +1,13 @@
 .CalcDisplay {
     background: rgb(65, 65, 65);
     text-align: right;
+    height: 70px;
+    border-top-left-radius: 5px;
 
 }
 
 .h1Style {
     color: white;
+    margin: 0;
+    padding: 15px;
 }

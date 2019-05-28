@@ -1,10 +1,14 @@
 .numContainer {
     display: flex;
     flex-wrap: wrap;
+
 }
 
 .container {
     border: 1px solid black;
-    max-width: 335px;
+    max-width: 320px;
     margin: 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    overflow: hidden;
 }

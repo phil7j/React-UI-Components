@@ -1,20 +1,24 @@
 .number-btn {
-    border-left: 1px solid grey;
-    border-top: 1px solid grey;
     width: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .action-btn {
-    border: 1px solid grey;
     width: 240px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .operation-btn {
-    background-color: red;
+    background-color: rgb(153, 0, 0);
     color: white;
     width: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .btn {
     text-align: center;
+    padding: 20px;
+    font-size: 22px;
 }
