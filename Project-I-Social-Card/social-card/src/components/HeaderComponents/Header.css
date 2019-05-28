@@ -1,1 +1,41 @@
 /* All styles for your header Components live here */
+
+header {
+    display: flex;
+}
+
+header img {
+    height: 50px;
+    margin-top: 0;
+    padding: 15px;
+}
+
+div.header-title {
+    display: flex;
+    align-items: baseline;
+
+
+}
+
+div.header-title h1 {
+    font-size: 15px;
+    margin-right: 10px;
+    padding: 0;
+}
+
+div.header-title h2 {
+    font-size: 14px;
+    color: grey;
+    margin-right: 10px;
+    padding: 0;
+}
+
+div.header-title h2{
+    padding: 0;
+    font-weight: 400;
+}
+
+.content {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+}
